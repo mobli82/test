@@ -2,5 +2,6 @@ This is first start with git
 second line in the file
 third line in file
 fourth line in the file
-soe dummy context in the file
+some dummy context in the file
+lorem ipsum
 
