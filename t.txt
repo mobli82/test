@@ -5,3 +5,4 @@ fourth line in the file
 some dummy context in the file
 lorem ipsum
 another line in the file
+jakas zmiana
