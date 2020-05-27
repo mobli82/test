@@ -7,3 +7,4 @@ lorem ipsum
 another line in the file
 jakas zmiana
 nie wiem co tu napisac
+dodajemy cos do pliku
